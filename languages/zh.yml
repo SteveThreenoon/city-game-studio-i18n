@@ -1657,7 +1657,7 @@ zh:
   TOOLTIP_STUDIOS: 查看你的工作室
   TOOLTIP_STUDIOLIST: 查看镇上的办公室
   TOOLTIP_CONSTRUCT: |
-    为办公室建造一座新建筑或举办一次展会。
+    制造一个新的建筑以用来作办公室或组织展会。
   TOOLTIP_CONFERENCE: 管理展会
   TOOLTIP_MARKETING: 管理您的营销活动
   TOOLTIP_SELL: 出售你的办公室
@@ -1682,12 +1682,12 @@ zh:
   TOOLTIP_HUMANRESOURCE: |
     指派人力资源经理管理员工的排班和加薪。
   TOOLTIP_GAME_OF_THE_YEAR: |
-    每一年，新上排行的游戏都会推出它的年度游戏纪念版。
+    每一年都会有新游戏被评为年度游戏。
   TOOLTIP_DESK_REPLACE: |
-    更换办公桌和升级计算机
+    更换办公桌并升级计算机
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     游戏报告帮助您完善了蓝色区域。
-    通过离开蓝色区域，你冒着制造不平衡游戏的风险，并获得糟糕的评论
+    你离开了蓝色区域，冒着风险制造不平衡游戏，并收获了糟糕的评论。
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
@@ -1695,13 +1695,13 @@ zh:
   LOADING_SCREEN_TIP_1: >
     一个完美的员工可以加强你的开发团队。
   LOADING_SCREEN_TIP_2: >
-    这个加载屏幕只是让你在这看一会，实际上它是一个循环的睡眠模式（随机（0,50））。
+    这个加载屏幕只是让你在这看一会，实际上它是一个循环的睡眠语句（随机（0,50））。
   LOADING_SCREEN_TIP_3: >
     发明新的游戏类别让你获得比竞争对手更大的优势。
   LOADING_SCREEN_TIP_4: >
     与竞争对手一起制作游戏是成名的最佳方式。
   LOADING_SCREEN_TIP_5: >
-    你可以在自己的建筑中组织展会，但最好一年开一次。
+    你可以在自己的建筑中组织展会，且最好一年开一次。
   LOADING_SCREEN_TIP_6: >
     首先处理销售业绩不良的部门总是正确的。
   LOADING_SCREEN_TIP_7: >
@@ -1711,15 +1711,15 @@ zh:
   LOADING_SCREEN_TIP_9: >
     在City Game Studio的开发过程中累计播放了12654首圣诞歌曲。
   LOADING_SCREEN_TIP_10: >
-    看看市场份额是好的，但你还必须时刻注意在平台上发布的游戏数量。
+    关注市场份额是好的，但你还必须时刻注意在平台上发布的游戏数量。
   LOADING_SCREEN_TIP_11: >
     你想帮助我们翻译City Game Studio吗？ https://discord.gg/citygamestudio
   LOADING_SCREEN_TIP_12: >
-    当服务器的指示灯呈红色亮起时表示已经过载。
+    当服务器的红色指示灯亮起时表示服务器已经过载。
   LOADING_SCREEN_TIP_13: >
-    不要忘记休息时间......啊，咖啡机又坏了。
+    不要忘记茶歇......啊，咖啡机又坏了。
   LOADING_SCREEN_TIP_14: >
-    危机时机管理不是一种食品，而是一种管理实践。
+    危机管理不是一种食品，而是一种管理实践。
   LOADING_SCREEN_TIP_15: >
     发布新游戏是赚钱的最佳方式。
   LOADING_SCREEN_TIP_16: >
@@ -1727,28 +1727,28 @@ zh:
   LOADING_SCREEN_TIP_17: >
     根据最近的一项研究，625.3只狗中有近1只在下雨时吠叫，其他人则把它当笑话。
   LOADING_SCREEN_TIP_18: >
-    不要依赖加载屏幕上所有内容。
+    不要完全依赖加载屏幕上的内容。
   LOADING_SCREEN_TIP_19: >
-    领养一只猫可以你的工作室增加一点点奖金。
+    领养一只猫可以给你的工作室增加一点点奖金。
   LOADING_SCREEN_TIP_20: >
-    如果你的工作室技能水平不平均将会影响游戏的整体质量。
+    如果你的工作室技能水平不平均，将会影响游戏的整体质量。
 
   GAME_UPDATE: 游戏更新
   GAMEENGINE: 游戏引擎
-  GAMEEDITION_SUBMIT: 发布发行价
-  GAMEEDITION_RECEIVE: 接受发行价
+  GAMEEDITION_SUBMIT: 提出发行邀约
+  GAMEEDITION_RECEIVE: 接受发行邀约
   WORLDMAP: 城市地图
-  MARKETING_CAMPAIGN_MAGAZINE: 媒体宣传活动
-  MARKETING_CAMPAIGN_TV: 电视广告活动
-  MARKETING_CAMPAIGN_INTERNET: 线上广告活动
+  MARKETING_CAMPAIGN_MAGAZINE: 媒体宣传
+  MARKETING_CAMPAIGN_TV: 电视广告
+  MARKETING_CAMPAIGN_INTERNET: 线上广告
   CONCURRENT_STUDIOS_LIST: 列出竞争对手
   CONCURRENT_STUDIOS_BUY: 收购竞争对手
   FURNITURES_COMMON_BUY: 家具商店
   EMPLOYEES_HIRE: 雇用员工
   STUDIO_RENT: 租一间一室公寓
   STUDIO_BUILD: 建立一间工作室
-  CONVENTION_ORGANIZE: 组织一次展会
-  CONVENTION_PARTICIPATE: 参加一次展会
+  CONVENTION_ORGANIZE: 组织展会
+  CONVENTION_PARTICIPATE: 参加展会
   STUDIO_CUSTOMIZE: 装修你的工作室
   FURNITURES_SERVERS_BUY: 购买服务器
   GAME_ONLINE: 发布在线游戏
@@ -1762,8 +1762,8 @@ zh:
   MODDING: 游戏模组
   CUTSCENES: 过场动画
   TUTORIEL: 教程
-  MARKETING_CAMPAIGN_SOCIALNETWORK: 目标广告活动
-  MARKETING_CAMPAIGN_MAILINGLIST: 电子邮件广告系列
+  MARKETING_CAMPAIGN_SOCIALNETWORK: 针对性广告
+  MARKETING_CAMPAIGN_MAILINGLIST: 电子邮件广告
   GAMEPORT: 移植游戏
   UNLOCK_GAMEGENRE: 解锁游戏类别
   UNLOCK_HUMANRESOURCE: 人力资源
